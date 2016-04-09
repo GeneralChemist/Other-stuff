@@ -1,6 +1,3 @@
-# Dustin Titus
-# 6/10/15
-# 
 # This program is a one dimensional cellular automata model.  It checks that
 # the cells adjacent to the index cell are equal to the index cell, and prints
 # a + if they are all equal, and a space if they are not.
