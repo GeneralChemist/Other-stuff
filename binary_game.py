@@ -1,6 +1,4 @@
-# Dustin Titus
-# 5/23/15
-# 
+
 # This program runs a game that awards points to the user for each correctly translated
 # random number from binary to decimal and decimal to binary. For each incorrect answer
 # the computer is awarded a point.
