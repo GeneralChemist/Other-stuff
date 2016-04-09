@@ -1,6 +1,4 @@
-# Dustin Titus
-# 6/2/15
-#
+
 # This program will use a key to encode a text file to make it unreadable.
 # It will also decode a file that has been previously encrypted using the
 # same key.
