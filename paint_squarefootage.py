@@ -1,5 +1,4 @@
-# Dustin Titus
-# 4/17/15
+
 # This program is designed to calculate the volume, surface area, cost, paint and
 # flooring amounts requirements for a rectangular room of a given dimension.
 
@@ -57,22 +56,3 @@ print("The cost of paint will be: $",format(paintCost, '.2f'))
 # 20.5*15.5*10 room, paint cost $35.50, floor $2.50.
 # vol = 3177.5 cu ft, floor = 317.75 rounded to 318 sq ft, floor cost = $795
 # Surface area = 965.75 sq ft, 965.75/350 = 2.75 => 3, 3*35.50 = 106.5
-#
-# Report:
-#
-# To start this assignment, first I tried to figure out some of the more basic
-# calculations. Then I wrote the input section, and some of the basic
-# outputs, to get a basic framework in place.
-#
-# Once the input and output section were working, I had some adjustments to do
-# on my processing section.  In testing, I worked out the more precise formatting
-# as well as which calculations were off.  In one instance I noticed that my 
-# paintCost was calculating from the unrounded value, so I had to go back and round
-# sooner.
-#
-# I learned a lot about formatting numbers in this assignment. I also learned
-# that you can't use any math functions on the left side of a variable declaration.
-# I think in the future I might read the chapter a bit more thoroughly before
-# starting to code.
-
-
