@@ -1,5 +1,3 @@
-# Dustin Titus
-# 4/25/15
 # This program will disply how much a loan payment will be given an interest rate
 # compounded monthly. And how much  it would be at +/-0.5%.
 
