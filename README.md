@@ -1,3 +1,3 @@
-# Other-stuff
+# Python 3 programs
 
-This is just a repository of a few other random programs that I've written
+This is a repository of several python 3 programs that I have written.
