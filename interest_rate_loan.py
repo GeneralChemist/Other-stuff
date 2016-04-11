@@ -72,19 +72,3 @@ main()
 # 15/(1-(1+.06/12)**-12) = 258.20  program produces 258.20
 # interest:
 # 258.20*12-3000 = 98.4 program produces 98.39
-#
-# Report:
-#
-# I started by writing up the input statments and basic outputs, then I wrote up
-# the equations, and checked them, and finally worked on getting the functions 
-# up and running.
-#
-# I started testing my program with the equations.  Once I got those close enough
-# to working, I started putting in the functions, which broke everything for a
-# while there. I had some trouble with local variables, and it took me a while to 
-# figure out that you can assign a variable as a function.
-#
-# I learned a lot about how local variables can be applied, and variable declaration
-# in Python. I also learned a lot about functions, arguments and parameters.
-# Next time I will probably spend a lot less time wondering how to use a variable
-# generated in one function in a different function.
